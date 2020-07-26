@@ -10,7 +10,7 @@ def input_(prompt,ans1,ans2):
             print("Popular!")
             points += 1
             break
-        elif inputt == ans2:
+        elif input__ == ans2:
             print("Unpopular")
             break
         else:
